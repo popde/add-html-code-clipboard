@@ -28,3 +28,5 @@ winform.button.oncommand = function(id,event){
  
 winform.show();
 win.loopMessage();
+
+本文首发: https://www.htmlayout.cn/t/400
